@@ -70,7 +70,7 @@ link-shortener/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mohammad111mhp/link-tools
 cd link-shortener
 ```
 

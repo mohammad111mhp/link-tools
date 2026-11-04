@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+dist-ssr/
+
+# Database
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Generated QR code images
+/server/public/qrcodes/*
+!/server/public/qrcodes/.gitkeep
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# OS
+.DS_Store
+Thumbs.db
